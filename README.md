@@ -2,7 +2,7 @@
 
 This project focuses on predicting ice cream sales based on temperature using various statistical and machine learning techniques. The workflow includes data exploration, visualization, statistical analysis, linear regression, and neural network modeling.
 
-##Overview
+## Overview
 The project utilizes Python with libraries such as pandas, numpy, matplotlib, seaborn, statsmodels, and scikit-learn. It also incorporates TensorFlow for neural network modeling.
 
 Dataset
